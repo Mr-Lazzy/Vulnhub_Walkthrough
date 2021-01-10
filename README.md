@@ -14,4 +14,4 @@
  
  | 6. | [**Photographer: 1 Walkthrough**](https://shubham-singh.medium.com/photographer-1-vulnhub-walkthrough-e7c1f3a5dde7) | Linux |        |
 
-                                                                                            More Walkthrough's will be updated soon....
+                                                                                           
